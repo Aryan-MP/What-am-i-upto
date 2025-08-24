@@ -6,13 +6,6 @@ Think of it as my personal digital scratchpad 📝 — half guide, half playgrou
 
 ---
 
-## 📂 Contents
-
-- [`devops_notes_enhanced.md`](./devops_notes_enhanced.md) → Linux, Networking, Jenkins, Docker basics + hands-on commands  
-- More notes coming soon (Cloud ☁️, Kubernetes ☸️, GitHub Actions, etc.)  
-
----
-
 ## 💡 Why This Repo?
 
 I wanted a place to:
